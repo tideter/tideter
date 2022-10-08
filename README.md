@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+## [Geholo](https://github.com/Geholo) 📫 contact@tideter.com
 <!--
 **tideter/tideter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
